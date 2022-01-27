@@ -1,7 +1,8 @@
 ## 👋 Hi there! My name is Sean, its nice to meet you.
 [<img alt="sean@foundry376.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](sean@foungry376.com)
 [<img alt="https://www.linkedin.com/in/seanrossettie/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/seanrossettie/)
-[<img alt="www.seanrossettie.com" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](www.seanrossettie.com)
+[<img alt="www.seanrossettie.com" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://www.seanrossettie.com/)
+
 
 
 
