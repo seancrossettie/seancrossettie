@@ -5,7 +5,7 @@
 
 I am a fullstack web developer based in Nashville, TN.
 
-![Sean Rossettie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seancrossettie&count_private=true&hide=stars&show_icons=true&theme=radical)
+[![Sean Rossettie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seancrossettie&count_private=true&hide=stars&show_icons=true&theme=radical)](https://github.com/seancrossettie)
 
 ### Things I am doing 
 - 🔭 I’m currently working at **Foundry 376** as an application developer 
