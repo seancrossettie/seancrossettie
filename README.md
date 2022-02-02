@@ -9,7 +9,7 @@ I am a fullstack web developer based in Nashville, TN.
 
 ### Things I am doing 
 - 🔭 I’m currently working at **Foundry 376** as an application developer 
-- 🌱 I’m learning ```TypeScript```, ```NodeJs```, and ```PostgresSQL```
+- 🌱 I’m learning ```TypeScript```, ```NodeJs```, and ```PostgreSQL```
 - 🧐 I'm interested in sharpening my ```React``` skills
 
 ### Languages I use
