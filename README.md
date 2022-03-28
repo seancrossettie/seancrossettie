@@ -14,6 +14,3 @@ I am a fullstack web developer based in Nashville, TN.
 
 ### Languages I use
 - ```JavaScript```, ```React```, ```Typescript```, ```C#/ .NET```, ```SQL```
-
-### Things I like to do outside of work
-- 🎸 🛹 ✈️ 🥾 👨‍🍳
