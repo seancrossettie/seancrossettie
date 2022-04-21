@@ -1,7 +1,6 @@
 ## Hi there! My name is Sean, it's nice to meet you.
 [<img alt="seancrossettie@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:seancrossettie@gmail.com)
 [<img alt="https://www.linkedin.com/in/seanrossettie/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/seanrossettie/)
-[<img alt="https://www.seanrossettie.com/" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://www.seanrossettie.com/)
 
 I am a fullstack web developer based in Nashville, TN.
 
